@@ -1,0 +1,6 @@
+# ninja log v6
+31	1335	7559573886742990	CMakeFiles/MyApp.dir/src/application.cpp.obj	1801f6f57b0fd39e
+1336	1575	7559573899765155	MyApp.exe	d0c0fd04af3b7486
+25	4014	7559566639208415	CMakeFiles/MyApp.dir/src/glad.c.obj	ae9066d18ad320d
+19	1410	7559576484350820	CMakeFiles/MyApp.dir/src/application.cpp.obj	1801f6f57b0fd39e
+1415	1666	7559576498279688	MyApp.exe	d0c0fd04af3b7486

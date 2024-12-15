@@ -1,0 +1,3 @@
+C:/dev/openglpractice/build/CMakeFiles/MyApp.dir
+C:/dev/openglpractice/build/CMakeFiles/edit_cache.dir
+C:/dev/openglpractice/build/CMakeFiles/rebuild_cache.dir
